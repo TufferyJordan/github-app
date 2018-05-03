@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GithubReader</string>
+    <string name="blog_button_text">Blog</string>
+    <string name="title_activity_repos">ReposActivity</string>
 </resources>
